@@ -3,6 +3,8 @@ Alexa Skill for [WL-Monitor-Pi](https://github.com/mabe-at/WL-Monitor-Pi) (more 
 
 Data Source: City of Vienna (Stadt Wien) - https://data.wien.gv.at
 
+Quick and dirty python script for monitoring departures of lines at certain stations towards certain directions.
+
 Have a look at this [youtube tutorial](https://www.youtube.com/watch?v=DFiCsMcipr4) about implementing this.
 
 ```
